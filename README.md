@@ -5,7 +5,7 @@
 -> Merhabalar benim adım Hasan Hüseyin Durak, <br>Python programlama dili ile 9 yıldır ilgilenmekte, uğraşmakta ve kendimi geliştirmeye devam etmekteyim. <br>27.11.2020 yılında Python Programlama Dili sertifikamı aldım. <br>Python projelerime bakarak benim ne kadar tecrübeli olduğumu sizlerinde görmenizi isterim. <br>Ben kendimi övmeyi sevmem, işimi asla acele ile yapmam titizlikle temiz şekilde yapar ve teslim ederim.
 <br>
 ===> Python Repository'de Yaptıklarım:
-<br> [![arbitrary case-insensitive reference text](https://www.mozilla.org<br>)]
+<br> 
 00 - [Python Mini Eğitim Seti](https://github.com/hasanhuseyindurak43/Python/tree/main/Python%20Mini%20E%C4%9Fitim%20Seti) <br>
 01 - [Çarpım Tablosu](https://github.com/hasanhuseyindurak43/Python/tree/main/%C3%87arp%C4%B1m%20Tablosu) <br>
 02 - [LigTv'den Haber Çekme](https://github.com/hasanhuseyindurak43/Python/tree/main/Ligtv'den%20Haber%20%C3%87ekme) <br>
@@ -45,4 +45,4 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=hasanhuseyindurak43&show_icons=true&theme=gradient) 
 
-[Link to Google](https://www.google.com)
+[Python Mini Eğitim Seti](https://github.com/hasanhuseyindurak43/Python/tree/main/Python%20Mini%20E%C4%9Fitim%20Seti)
