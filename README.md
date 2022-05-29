@@ -6,7 +6,8 @@
 <br>
 ===> Python Repository'de Yaptıklarım:
 <br> 
-00 - [Python Mini Eğitim Seti](https://github.com/hasanhuseyindurak43/Python/tree/main/Python%20Mini%20E%C4%9Fitim%20Seti) <br>
+00 - [Python Mini Eğitim Seti](https://github.com/hasanhuseyindurak43/Python/tree/main/Python%20Mini%20E%C4%9Fitim%20Seti) 
+<br>
 01 - [Çarpım Tablosu](https://github.com/hasanhuseyindurak43/Python/tree/main/%C3%87arp%C4%B1m%20Tablosu) <br>
 02 - [LigTv'den Haber Çekme](https://github.com/hasanhuseyindurak43/Python/tree/main/Ligtv'den%20Haber%20%C3%87ekme) <br>
 03 - [En Büyük Ve En Küçük Sayıyı Bulma](https://github.com/hasanhuseyindurak43/Python/tree/main/En%20B%C3%BCy%C3%BCk%20ve%20En%20K%C3%BC%C3%A7%C3%BCk%20Say%C4%B1y%C4%B1%20Bulma) <br>
