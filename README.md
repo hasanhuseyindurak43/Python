@@ -1,3 +1,5 @@
+# HOŞGELDİN SAYFAMA ✋
+
 # Ben Kimim ?:
 
 -> Merhabalar benim adım Hasan Hüseyin Durak, Python programlama dili ile 9 yıldır ilgilenmekte, uğraşmakta ve kendimi geliştirmeye devam etmekteyim. 27.11.2020 yılında Python Programlama Dili sertifikamı aldım. Python projelerime bakarak benim ne kadar tecrübeli olduğumu sizlerinde görmenizi isterim. Ben kendimi övmeyi sevmem, işimi asla acele ile yapmam titizlikle temiz şekilde yapar ve teslim ederim.
@@ -35,3 +37,6 @@
 28 - PyQt5 Searchable ListWidget
 
 -> Listeyi yenilemeye devam edeceğim ve gün ve gün kendimi geliştirmeye, benden sonrakiler içinde örnek projelerimi burada yayınlamaya devam edeceğim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/hasanhuseyindurak43/Python)](https://github.com/hasanhuseyindurak43/Python) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://www.instagram.com/_barronsoftwares/)]((https://www.instagram.com/_barronsoftwares/)) 
