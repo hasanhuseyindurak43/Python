@@ -5,9 +5,6 @@
 <br>
 -> Merhabalar benim adım Hasan Hüseyin Durak, <br>Python programlama dili ile 9 yıldır ilgilenmekte, uğraşmakta ve kendimi geliştirmeye devam etmekteyim. <br>27.11.2020 yılında Python Programlama Dili sertifikamı aldım. <br>Python projelerime bakarak benim ne kadar tecrübeli olduğumu sizlerinde görmenizi isterim. <br>Ben kendimi övmeyi sevmem, işimi asla acele ile yapmam titizlikle temiz şekilde yapar ve teslim ederim.
 <br>
-<br>
-
-![](../assets/sertifikalar/Sıfırdan_İleri_Seviye_Python_Programlama_Sertifika-1.jpg)
 
 <br>
 ===>Python Repository'de Yaptıklarım:
