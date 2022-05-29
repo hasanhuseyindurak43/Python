@@ -1,14 +1,14 @@
 # HOŞGELDİN SAYFAMA ✋
 <br>
 <br>
-## ===> **Ben Kimim ?:**
+===> Ben Kimim ?:
 <br>
 **-> Merhabalar benim adım Hasan Hüseyin Durak, <br>Python programlama dili ile 9 yıldır ilgilenmekte, uğraşmakta ve kendimi geliştirmeye devam etmekteyim. <br>27.11.2020 yılında Python Programlama Dili sertifikamı aldım. <br>Python projelerime bakarak benim ne kadar tecrübeli olduğumu sizlerinde görmenizi isterim. <br>Ben kendimi övmeyi sevmem, işimi asla acele ile yapmam titizlikle temiz şekilde yapar ve teslim ederim.**
 <br>
 <br>
-## **===>Python Repository'de Yaptıklarım:**
+===>Python Repository'de Yaptıklarım:
 <br>
-**00 - Python Mini Eğitim Seti<br>
+00 - Python Mini Eğitim Seti<br>
 01 - Çarpım Tablosu<br>
 02 - LigTv'den Haber Çekme<br>
 03 - En Büyük Ve En Küçük Sayıyı Bulma<br>
@@ -38,7 +38,7 @@
 27 - Tk-Calculator<br>
 28 - PyQt5 Searchable ListWidget
 <br>
--> Listeyi yenilemeye devam edeceğim ve gün ve gün kendimi geliştirmeye, benden sonrakiler içinde örnek projelerimi burada yayınlamaya devam edeceğim.**
+-> Listeyi yenilemeye devam edeceğim ve gün ve gün kendimi geliştirmeye, benden sonrakiler içinde örnek projelerimi burada yayınlamaya devam edeceğim.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/hasanhuseyindurak43/Python)](https://github.com/hasanhuseyindurak43/Python)
 
