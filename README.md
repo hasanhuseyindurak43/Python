@@ -44,3 +44,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_barronsoftwares/)](https://www.instagram.com/_barronsoftwares/)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=hasanhuseyindurak43&show_icons=true&theme=gradient) 
+
+[Link to Google](https://www.google.com)
