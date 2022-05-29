@@ -35,9 +35,11 @@
 26 - Advanced Todo
 27 - Tk-Calculator
 28 - PyQt5 Searchable ListWidget
-
+<br>
 -> Listeyi yenilemeye devam edeceğim ve gün ve gün kendimi geliştirmeye, benden sonrakiler içinde örnek projelerimi burada yayınlamaya devam edeceğim
-
+<br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/hasanhuseyindurak43/Python)](https://github.com/hasanhuseyindurak43/Python) 
 <br>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://www.instagram.com/_barronsoftwares/)]((https://www.instagram.com/_barronsoftwares/)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
+<br>
+[![Python Badge](https://img.shields.io/python/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
