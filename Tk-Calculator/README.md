@@ -1,7 +1,7 @@
 ## Calculator with Tkinter 
 
 ```
-python3 calculator.py
+python3 main.py
 ```
 
 
