@@ -37,7 +37,8 @@
 25 - Class, modeller, property kavramlari<br>
 26 - Advanced Todo<br>
 27 - Tk-Calculator<br>
-28 - PyQt5 Searchable ListWidget
+28 - PyQt5 Searchable ListWidget<br>
+29 - Tk-Translation
 <br>
 -> Listeyi yenilemeye devam edeceğim ve gün ve gün kendimi geliştirmeye, benden sonrakiler içinde örnek projelerimi burada yayınlamaya devam edeceğim.
 
